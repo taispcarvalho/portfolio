@@ -1,0 +1,15 @@
+h1 {
+    font-family: 'Raleway';
+    font-weight: 600;
+    text-align: center;
+}
+
+h3, ul, p, ol {
+    font-family: 'Raleway';
+    font-weight: 400;
+}
+
+body {
+    background-color: rgb(232, 234, 235);
+}
+
